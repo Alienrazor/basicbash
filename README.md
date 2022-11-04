@@ -1,1 +1,2 @@
 # basicbash
+# bash learning 
